@@ -12,4 +12,4 @@ La tarea consiste en instalar docker y docker-compose en CentOS.
 
 # Referencias
 
-- Sube a Moodle Centros el enlace de tu proyecto.
+- [ Instalación de docker en CentOs ](https://www.howtoforge.com/install-and-use-docker-compose-on-centos-8/) 
